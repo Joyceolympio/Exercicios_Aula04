@@ -1,0 +1,6 @@
+Algoritmo de Corrida
+
+- Colocar meia
+- Colocar tênis
+- Ir até local de corrida
+- Começar a correr
